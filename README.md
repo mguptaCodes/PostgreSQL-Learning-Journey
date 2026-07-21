@@ -21,23 +21,23 @@ This repository is intended for:
 
 # 🚀 Skills Covered
 
-🗸 SQL Fundamentals
-🗸 PostgreSQL
-🗸 Database Management
-🗸 CRUD Operations
-🗸 Filtering & Sorting Data
-🗸 SQL Operators
-🗸 Aggregate Functions
-🗸 String Functions
-🗸 Date & Time Functions
-🗸 Conditional Functions
-🗸 GROUP BY & HAVING
-🗸 Joins
-🗸 Set Operations
-🗸 Subqueries
-🗸 Common Table Expressions (CTEs)
-🗸 Window Functions
-🗸 Query Optimization
+🗸 SQL Fundamentals<br>
+🗸 PostgreSQL<br>
+🗸 Database Management<br>
+🗸 CRUD Operations<br>
+🗸 Filtering & Sorting Data<br>
+🗸 SQL Operators<br>
+🗸 Aggregate Functions<br>
+🗸 String Functions<br>
+🗸 Date & Time Functions<br>
+🗸 Conditional Functions<br>
+🗸 GROUP BY & HAVING<br>
+🗸 Joins<br>
+🗸 Set Operations<br>
+🗸 Subqueries<br>
+🗸 Common Table Expressions (CTEs)<br>
+🗸 Window Functions<br>
+🗸 Query Optimization<br>
 🗸 Data Analysis using SQL 
 
 # Repository Structure
@@ -151,11 +151,11 @@ PostgreSQL-Learning-Journey
 This repository also contains a mini SQL project demonstrating practical SQL query writing using a sample dataset.
 
 Topics covered include:
-➢ Data Retrieval
-➢ Filtering
-➢ Aggregation
-➢ Joins
-➢ Reporting
+➢ Data Retrieval<br>
+➢ Filtering<br>
+➢ Aggregation<br>
+➢ Joins<br>
+➢ Reporting<br>
 ➢ Business Insights
 
 
@@ -188,14 +188,14 @@ Through this repository, I have gained practical experience in:
 
 # Future Improvements
 
-◎ More SQL Interview Questions
-◎ Advanced PostgreSQL Concepts
-◎ Stored Procedures
-◎ Functions
-◎ Triggers
-◎ Views
-◎ Indexes
-◎ Performance Optimization
+◎ More SQL Interview Questions<br>
+◎ Advanced PostgreSQL Concepts<br>
+◎ Stored Procedures<br>
+◎ Functions<br>
+◎ Triggers<br>
+◎ Views<br>
+◎ Indexes<br>
+◎ Performance Optimization<br>
 ◎ Real-world SQL Case Studies
 
 
