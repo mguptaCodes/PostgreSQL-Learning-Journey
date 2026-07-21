@@ -19,8 +19,6 @@ This repository is intended for:
 
 # Skills Covered
 
-# 🚀 Skills Covered
-
 🗸 SQL Fundamentals<br>
 🗸 PostgreSQL<br>
 🗸 Database Management<br>
@@ -151,6 +149,7 @@ PostgreSQL-Learning-Journey
 This repository also contains a mini SQL project demonstrating practical SQL query writing using a sample dataset.
 
 Topics covered include:
+
 ➢ Data Retrieval<br>
 ➢ Filtering<br>
 ➢ Aggregation<br>
