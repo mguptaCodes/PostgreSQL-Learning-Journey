@@ -10,33 +10,35 @@ Welcome to my **PostgreSQL Learning Journey** repository!
 This repository documents my journey of learning **PostgreSQL** and **SQL**, from beginner concepts to advanced query writing. It includes structured notes, practical exercises, assignments, real-world SQL queries, and a mini SQL project designed to strengthen database management and data analysis skills.
 
 This repository is intended for:
-- Students learning SQL
-- Aspiring Data Analysts
-- Beginners in PostgreSQL
-- Anyone preparing for SQL interviews
+
+➢ Students learning SQL
+➢ Aspiring Data Analysts
+➢ Beginners in PostgreSQL
+➢ Anyone preparing for SQL interviews
 
 
 # Skills Covered
 
-- SQL Fundamentals
-- PostgreSQL
-- Database Management
-- CRUD Operations
-- Filtering & Sorting Data
-- SQL Operators
-- Aggregate Functions
-- String Functions
-- Date & Time Functions
-- Conditional Functions
-- GROUP BY & HAVING
-- Joins
-- Set Operations
-- Subqueries
-- Common Table Expressions (CTEs)
-- Window Functions
-- Query Optimization
-- Data Analysis using SQL
+# 🚀 Skills Covered
 
+🗸 SQL Fundamentals
+🗸 PostgreSQL
+🗸 Database Management
+🗸 CRUD Operations
+🗸 Filtering & Sorting Data
+🗸 SQL Operators
+🗸 Aggregate Functions
+🗸 String Functions
+🗸 Date & Time Functions
+🗸 Conditional Functions
+🗸 GROUP BY & HAVING
+🗸 Joins
+🗸 Set Operations
+🗸 Subqueries
+🗸 Common Table Expressions (CTEs)
+🗸 Window Functions
+🗸 Query Optimization
+🗸 Data Analysis using SQL 
 
 # Repository Structure
 
@@ -149,12 +151,12 @@ PostgreSQL-Learning-Journey
 This repository also contains a mini SQL project demonstrating practical SQL query writing using a sample dataset.
 
 Topics covered include:
-- Data Retrieval
-- Filtering
-- Aggregation
-- Joins
-- Reporting
-- Business Insights
+➢ Data Retrieval
+➢ Filtering
+➢ Aggregation
+➢ Joins
+➢ Reporting
+➢ Business Insights
 
 
 # SQL Certificate
@@ -186,15 +188,15 @@ Through this repository, I have gained practical experience in:
 
 # Future Improvements
 
-- More SQL Interview Questions
-- Advanced PostgreSQL Concepts
-- Stored Procedures
-- Functions
-- Triggers
-- Views
-- Indexes
-- Performance Optimization
-- Real-world SQL Case Studies
+◎ More SQL Interview Questions
+◎ Advanced PostgreSQL Concepts
+◎ Stored Procedures
+◎ Functions
+◎ Triggers
+◎ Views
+◎ Indexes
+◎ Performance Optimization
+◎ Real-world SQL Case Studies
 
 
 # 🤝 Connect With Me
