@@ -208,7 +208,7 @@ Through this repository, I have gained practical experience in:
 
 🔗 LinkedIn: https://www.linkedin.com/in/manaswi-gupta-718b14302
 
-🐙 GitHub: https://github.com/your-username
+🐙 GitHub: https://github.com/mguptaCodes
 
 
 ## If you find this repository useful, don't forget to Star ⭐ the repository!
