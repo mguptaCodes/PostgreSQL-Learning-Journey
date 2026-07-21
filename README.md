@@ -11,9 +11,9 @@ This repository documents my journey of learning **PostgreSQL** and **SQL**, fro
 
 This repository is intended for:
 
-➢ Students learning SQL
-➢ Aspiring Data Analysts
-➢ Beginners in PostgreSQL
+➢ Students learning SQL<br>
+➢ Aspiring Data Analysts<br>
+➢ Beginners in PostgreSQL<br>
 ➢ Anyone preparing for SQL interviews
 
 
